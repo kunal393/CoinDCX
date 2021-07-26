@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="9" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UISuite" duration-ms="48282" started-at="2021-07-26T11:48:21 IST" finished-at="2021-07-26T11:49:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48282" started-at="2021-07-26T11:48:21 IST" finished-at="2021-07-26T11:49:10 IST">
+      <class name="tests.TC_signup">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="setup" is-config="true" duration-ms="5293" started-at="2021-07-26T11:48:16 IST" finished-at="2021-07-26T11:48:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="precondition" is-config="true" duration-ms="13357" started-at="2021-07-26T11:48:21 IST" finished-at="2021-07-26T11:48:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="refresh(java.lang.reflect.Method,[Ljava.lang.Object;)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="refresh" is-config="true" duration-ms="21" started-at="2021-07-26T11:48:45 IST" finished-at="2021-07-26T11:48:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC_signup.phone_Negative_Scenario(java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6642dc5a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="phone_Negative_Scenario(java.lang.String,java.lang.String)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="phone_Negative_Scenario" duration-ms="4048" started-at="2021-07-26T11:48:45 IST" data-provider="Data" finished-at="2021-07-26T11:48:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Atleast 1 uppercase, 1 number, 8 characters.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone_Negative_Scenario -->
+        <test-method status="PASS" signature="refresh(java.lang.reflect.Method,[Ljava.lang.Object;)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="refresh" is-config="true" duration-ms="21" started-at="2021-07-26T11:48:49 IST" finished-at="2021-07-26T11:48:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC_signup.phone_Negative_Scenario(java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@43da41e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="phone_Negative_Scenario(java.lang.String,java.lang.String)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="phone_Negative_Scenario" duration-ms="3606" started-at="2021-07-26T11:48:49 IST" data-provider="Data" finished-at="2021-07-26T11:48:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Atleast 1 number, 8 characters.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone_Negative_Scenario -->
+        <test-method status="PASS" signature="refresh(java.lang.reflect.Method,[Ljava.lang.Object;)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="refresh" is-config="true" duration-ms="14" started-at="2021-07-26T11:48:53 IST" finished-at="2021-07-26T11:48:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC_signup.phone_Negative_Scenario(java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@148c7c4b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="phone_Negative_Scenario(java.lang.String,java.lang.String)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="phone_Negative_Scenario" duration-ms="3439" started-at="2021-07-26T11:48:53 IST" data-provider="Data" finished-at="2021-07-26T11:48:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ASDFGHJKL]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Atleast 1 lowercase, 1 number.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone_Negative_Scenario -->
+        <test-method status="PASS" signature="refresh(java.lang.reflect.Method,[Ljava.lang.Object;)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="refresh" is-config="true" duration-ms="72" started-at="2021-07-26T11:48:56 IST" finished-at="2021-07-26T11:48:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC_signup.phone_Negative_Scenario(java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2009f9b0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="phone_Negative_Scenario(java.lang.String,java.lang.String)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="phone_Negative_Scenario" duration-ms="3127" started-at="2021-07-26T11:48:57 IST" data-provider="Data" finished-at="2021-07-26T11:49:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ASDFGHJkl]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Atleast 1 number.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone_Negative_Scenario -->
+        <test-method status="PASS" signature="refresh(java.lang.reflect.Method,[Ljava.lang.Object;)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="refresh" is-config="true" duration-ms="39" started-at="2021-07-26T11:49:00 IST" finished-at="2021-07-26T11:49:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.TC_signup.phone_Negative_Scenario(java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@50d951e7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="phone_Negative_Scenario(java.lang.String,java.lang.String)[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="phone_Negative_Scenario" duration-ms="2659" started-at="2021-07-26T11:49:00 IST" data-provider="Data" finished-at="2021-07-26T11:49:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AScv12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Atleast 8 characters.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone_Negative_Scenario -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TC_signup@2f0a87b3]" test-instance-name="phone_Negative_Scenario with data AScv12" name="tearDown" is-config="true" duration-ms="1290" started-at="2021-07-26T11:49:10 IST" finished-at="2021-07-26T11:49:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TC_signup -->
+      <class name="tests.TC_signupPositive">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:tests.TC_signupPositive@5204062d]" name="precondition" is-config="true" duration-ms="8643" started-at="2021-07-26T11:48:35 IST" finished-at="2021-07-26T11:48:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:tests.TC_signupPositive@5204062d]" name="refresh" is-config="true" duration-ms="51" started-at="2021-07-26T11:49:03 IST" finished-at="2021-07-26T11:49:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="email_Negative_Scenario()[pri:0, instance:tests.TC_signupPositive@5204062d]" name="email_Negative_Scenario" duration-ms="2901" started-at="2021-07-26T11:49:03 IST" finished-at="2021-07-26T11:49:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email_Negative_Scenario -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:tests.TC_signupPositive@5204062d]" name="refresh" is-config="true" duration-ms="63" started-at="2021-07-26T11:49:06 IST" finished-at="2021-07-26T11:49:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="test_Signup_positive_flow()[pri:0, instance:tests.TC_signupPositive@5204062d]" name="test_Signup_positive_flow" duration-ms="3580" started-at="2021-07-26T11:49:06 IST" finished-at="2021-07-26T11:49:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Signup_positive_flow -->
+      </class> <!-- tests.TC_signupPositive -->
+    </test> <!-- Test -->
+  </suite> <!-- UISuite -->
+</testng-results>

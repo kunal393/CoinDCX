@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.176 s <<< FAILURE! - in TestSuite
+tests.TC_Api.test_api  Time elapsed: 5.146 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <301>.
+
+	at tests.TC_Api.test_api(TC_Api.java:22)
+
